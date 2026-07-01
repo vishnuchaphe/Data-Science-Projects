@@ -1,5 +1,4 @@
 # Data-Science-Projects
-# Data Science Projects
 
 A collection of small data science projects covering EDA, visualization, and predictive modeling.
 
