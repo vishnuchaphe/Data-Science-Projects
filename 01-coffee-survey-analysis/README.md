@@ -1,6 +1,5 @@
-# Project Title
+#Coffee Survey Analysis — Plant-Based Dairy Preferences
 
-Short 1-2 line description of what this analyzes and why it's useful.
 
 ## Objective
 What question is this project answering?
