@@ -5,12 +5,10 @@
 What question is this project answering?
 
 ## Dataset
-- Source:
-- Size / rows / columns:
-- Link (if not committed directly):
+- Size / rows / columns:4042 rows , 113 columns
 
 ## Tools Used
-Python, Pandas, NumPy, Matplotlib/Seaborn
+Python, Pandas, NumPy, Matplotlib
 
 ## Key Steps
 -
@@ -22,8 +20,4 @@ Python, Pandas, NumPy, Matplotlib/Seaborn
 -
 -
 
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook notebook.ipynb
-```
+
